@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Survey Literasi
- * Plugin URI: https://github.com/indra-f-r
+ * Plugin URI: https://github.com/indra-f-r/survey_literasi
  * Description: Survey Kebutuhan Perpustakaan
  * Version: 1.0.0
  * Author: Indra Febriana Rulliawan
