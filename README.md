@@ -15,6 +15,7 @@ Survey Literasi memungkinkan perpustakaan mengetahui:
 Seluruh data diolah secara otomatis dan ditampilkan dalam bentuk laporan serta visualisasi grafik untuk memudahkan analisis.
 
 ## Fitur Utama
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b71e6108-76d8-45c7-947f-4b5ff1a223f8" />
 
 * Form survey berbasis web (OPAC) yang mudah digunakan
 * Autocomplete pencarian anggota (member)
@@ -87,6 +88,7 @@ Beberapa field utama:
 * created_at
 
 ## Output Laporan
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/887f9fcd-2b11-4006-8ab5-bd58d97a631c" />
 
 Laporan yang dihasilkan meliputi:
 
@@ -96,7 +98,7 @@ Laporan yang dihasilkan meliputi:
 * Daftar saran pemustaka
 * Distribusi responden per kelas
 
-Grafik akan ditampilkan secara otomatis jika jumlah responden mencukupi.
+Grafik akan ditampilkan secara otomatis jika jumlah responden mencukupi (threshold > 50 responden).
 
 ## Kegunaan
 
